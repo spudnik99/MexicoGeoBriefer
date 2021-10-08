@@ -1,2 +1,2 @@
-# MexicoShapefiles
-Maps of Mexico in Shapefile format
+# MexicoGeoBriefer
+Source for Mexico Geographic Briefer web page
